@@ -1,4 +1,4 @@
-# Problem plecakowy
+# Aplikacja bazodanowa
  
  ## Wstęp
  Projekt zawiera integrację z zewnętrznym API, służącym do pobierania danych z czujników jakości powietrza, oraz obsługę lokalnej bazy danych SQLite.
